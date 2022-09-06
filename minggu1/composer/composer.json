@@ -13,8 +13,5 @@
             "name": "Riki Widiantoro",
             "email": "rikitoro22@gmail.com"
         }
-    ],
-    "require": {
-        "nesbot/carbon": "^2.62"
-    }
+    ]
 }
