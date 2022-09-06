@@ -1,0 +1,16 @@
+{
+    "name": "msi/autoload",
+    "description": "coba autoload",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Riki Widiantoro",
+            "email": "rikitoro22@gmail.com"
+        }
+    ],
+    "require": {}
+}
